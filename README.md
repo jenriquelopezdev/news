@@ -2,13 +2,13 @@
 This is a project built in Ionic v6 that uses the 'storage', 'inappbrowser', and 'social-sharing' libraries to consume information from the news API https://newsapi.org. It is necessary to configure your own apiKey in the environment file.
 
 ## Table of Contents
-- Introduction
-- Features
-- System Requirements
-- Installation
-- Usage
-- Credits
-- License
+- [Introduction]
+- [Features]
+- [System Requirements]
+- [Installation]
+- [Usage]
+- [Credits]
+- [License]
 
 ## Introduction
 NoticiasApp is a mobile application that allows users to read news from different sources and share the information on their favorite social networks. The application uses the news API https://newsapi.org to get the latest news from different categories.
@@ -42,3 +42,10 @@ NoticiasApp is a mobile application that allows users to read news from differen
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 [Enrique Lopez]: https://github.com/jenriquelopezdev
+[Introduction]: #introduction
+[Features]: #features
+[System Requirements]: #system-requirements
+[Installation]: #installation
+[Usage]: #usage
+[Credits]: #credits
+[License]: #license
